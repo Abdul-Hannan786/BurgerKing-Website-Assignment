@@ -122,7 +122,7 @@ body {
     border: 1px solid #d62300;
 }
 .Delivery:hover{
-    background-color: #f2e4cd;
+    background-color: rgba(214, 35, 0, 0.1);
 }
 .Order:hover{
     background-color:#ad1e02 !important;
@@ -208,7 +208,7 @@ border-top-left-radius: 20px;
 }
 
 .deal-p1 button:hover{
-    background-color: #fcf2f0;
+    background-color: rgba(214, 35, 0, 0.1);
 }
 
 .scan-mob-1{
